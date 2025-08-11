@@ -50,3 +50,8 @@ Using **SQL, Python, Excel, and Power BI**, I work through the full cycle of bus
 - Added interactive filters for department-level analysis  
 **Business Impact:** Enabled finance team to track spending and forecast profit margins
 
+## 📌 How to Use
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/yadavchandan84/Data-Business-Analysis-Portfolio.git
+

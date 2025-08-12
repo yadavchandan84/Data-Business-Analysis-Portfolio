@@ -1,4 +1,4 @@
-# 📊 Data & Business Analysis Portfolio
+# 📊 CHANDAN - Data & Business Analysis Portfolio
 
 This repository showcases my ability to **transform data into business value** by combining analytical skills, business understanding, and data visualization.  
 Using **SQL, Python, Excel, and Power BI**, I work through the full cycle of business analysis — from raw data to actionable insights.
